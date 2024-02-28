@@ -1,0 +1,4 @@
+host=localhost
+db=data
+collection=names
+port=27017
